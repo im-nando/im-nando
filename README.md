@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @im-nando</h1>
+<h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">Just an enthusiastic web developer passionate about technology.</h3>
 
 - 🌱 I’m currently learning **React and Node**
