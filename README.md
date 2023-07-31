@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">Just an enthusiastic web developer passionate about technology.</h3>
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **PHP and JavaScript**
 
 - 👯 I’m looking to collaborate on **projects**
 
